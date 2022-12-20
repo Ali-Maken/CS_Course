@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>conflicting selectors</title>
+
+	</head>
+
+	<body>
+		<h1>Conflicting matters</h1>
+			wow.
+	</body>
+</html>
